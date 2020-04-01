@@ -62,7 +62,7 @@ persistentVolume:
 ## Pass extra environment variables to the Neo4j container.
 ##
 extraVars:
-#- name: EXTRA_VAR_1
+# - name: EXTRA_VAR_1
 #  value: extra-var-value-1
 # - name: EXTRA_VAR_2
 #   value: extra-var-value-2

@@ -3,14 +3,14 @@ entries:
   neo4j-community:
   - apiVersion: v1
     appVersion: 3.5.17
-    created: "2020-04-01T22:05:51.1824834+02:00"
+    created: "2020-04-01T22:41:18.4178284+02:00"
     description: Neo4j is the world's leading graph database
-    digest: 55904ce7ef7f05297844f98463ddfae3b87d30ee8164b4def6928d0fb6e25843
+    digest: e7278da895b4361f0674cc88e95b30f0d98a406ee56e9d709ce72d3361be9f9a
     home: https://www.neo4j.com
     icon: http://info.neo4j.com/rs/773-GON-065/images/neo4j_logo.png
     maintainers:
     - email: sovrevage@gmail.com
-      name: Stian Ovrevage
+      name: StianOvrevage
     name: neo4j-community
     sources:
     - https://github.com/neo4j/neo4j
@@ -18,6 +18,6 @@ entries:
     - https://github.com/mneedham/k8s-kubectl
     - https://github.com/equinor/neo4j-charts
     urls:
-    - neo4j-community-1.0.0.tgz
-    version: 1.0.0
-generated: "2020-04-01T22:05:51.1797659+02:00"
+    - neo4j-community-1.0.1.tgz
+    version: 1.0.1
+generated: "2020-04-01T22:41:18.4160479+02:00"
