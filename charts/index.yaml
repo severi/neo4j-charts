@@ -3,9 +3,9 @@ entries:
   neo4j-community:
   - apiVersion: v1
     appVersion: 3.5.17
-    created: "2020-04-01T22:41:18.4178284+02:00"
+    created: "2020-04-02T14:55:27.7129466+02:00"
     description: Neo4j is the world's leading graph database
-    digest: e7278da895b4361f0674cc88e95b30f0d98a406ee56e9d709ce72d3361be9f9a
+    digest: 71e41487c882d5ac84d7b94c11d4ca571376dd3f5d9349ad0393036784a69140
     home: https://www.neo4j.com
     icon: http://info.neo4j.com/rs/773-GON-065/images/neo4j_logo.png
     maintainers:
@@ -18,6 +18,6 @@ entries:
     - https://github.com/mneedham/k8s-kubectl
     - https://github.com/equinor/neo4j-charts
     urls:
-    - neo4j-community-1.0.1.tgz
-    version: 1.0.1
-generated: "2020-04-01T22:41:18.4160479+02:00"
+    - neo4j-community-1.0.2.tgz
+    version: 1.0.2
+generated: "2020-04-02T14:55:27.7102135+02:00"
